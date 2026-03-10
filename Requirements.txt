@@ -1,0 +1,8 @@
+streamlit
+pypdf
+numpy
+groq
+python-dotenv
+dataset
+ragas
+matplotlib
